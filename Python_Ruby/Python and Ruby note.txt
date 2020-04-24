@@ -1,0 +1,30 @@
+파이선 루비 프로그램은 어느정도 비슷하다
+- 파이선 사용법(루비도 어느정도 비슷하다)
+	명령어로 python3(ruby) + 디렉토리 경로 
+- 컨트롤 + D를 누르면 루비 or 파이선 프로그램에서 나갈수있다.(맥 기준 터미널 사용시)
+- 문자열(String)
+
+기본적인 프로그래밍 문법들은 거의 비슷하다고 생각한다(personally)
+	
+	1. 문자열의 제어
+	더하기 곱하기 등등은 가능하지만 빼기는 불가능하다.
+	
+	capitalize() = 문자의 앞문장 대문자화
+	upper() 파이선에서 = upcase() 루비에서
+	_len_() = length()
+	파이선에서 len()은 지정된 문자의 문자열을 카운트하라.
+	replace()
+	
+	2. the print in python3 = print, In ruby = puts
+		py using print, ruby using puts
+		
+	3. # -*- coding: utf-8 -*- For getting any input type of number or string 
+
+	4. The basic Logic in computer science 
+		There is three kinds of logic in computer science e.g) AND OR NOT
+		First AND
+			if both of true, that is true e.g) true and true - true, true and false - false
+		Second OR
+			if onething is true, that is true e.g) true and false - true, false and true - true
+		Third NOT
+			That mean is just Not -> if i put not with some number, that is false
