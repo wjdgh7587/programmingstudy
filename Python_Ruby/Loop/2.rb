@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 #!/usr/bin/ruby
 while false do
 	puts('Hello world')
